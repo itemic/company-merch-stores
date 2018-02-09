@@ -6,3 +6,4 @@ just a list of official company merch stores
 * [Microsoft](https://www.microsoftmerchandise.com/Shop#/)
 * [Slack](https://slack-shop.myshopify.com)
 * [SpaceX](https://shop.spacex.com)
+* [Wikipedia](https://store.wikimedia.org/)
