@@ -11,3 +11,4 @@ just a list of official company merch stores
 * [Google](https://www.googlemerchandisestore.com/)
 * [FSF (Free Software Foundation)](https://shop.fsf.org/)
 * [GitLab](https://shop.gitlab.com/)
+* [RedHat](https://store.ecompanystore.com/redhat/Shop/)
